@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1fYaujucZ5banM_0v3U0oeReICEDVxYX1
 """
 
-!pip install -qU crewai langchain-google-genai crewai_tools
+!pip install U crewai langchain-google-genai crewai_tools
 import os
 
 # For Google Colab, store your Gemini API key in userdata
